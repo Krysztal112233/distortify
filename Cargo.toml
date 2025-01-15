@@ -1,5 +1,5 @@
 [package]
-name = "img-noiser"
+name = "distortify"
 version = "0.1.0"
 edition = "2021"
 
